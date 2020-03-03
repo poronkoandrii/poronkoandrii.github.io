@@ -1,4 +1,4 @@
-# https-poronkoandrii.github.io
+# https://poronkoandrii.github.io
 Homework
 # https://poronkoandrii.github.io/homework_1/
 Homework_1 
