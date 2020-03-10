@@ -6,4 +6,5 @@ Homework:
 # <a href="https://poronkoandrii.github.io/homework_4_simple/">Homework_4.2</a>
 # <a href="https://poronkoandrii.github.io/homework_4_hard/">Homework_4.3</a>
 # <a href="https://poronkoandrii.github.io/homework_5/">Homework_5</a>
-# <a href="https://poronkoandrii.github.io/homework_6/">Homework_6.1</a>
+# <a href="https://poronkoandrii.github.io/homework_6/">Homework_6</a>
+# <a href="https://poronkoandrii.github.io/homework_6.1/">Homework_6.1</a>
