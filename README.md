@@ -14,3 +14,5 @@ Homework:
 # <a href="https://poronkoandrii.github.io/homework_8.1/">Homework_8.1</a>
 # <a href="https://poronkoandrii.github.io/homework_8.2/">Homework_8.2</a>
 # <a href="https://poronkoandrii.github.io/homework_9.1/">Homework_9.1</a>
+# <a href="https://poronkoandrii.github.io/homework_9.2/">Homework_9.2</a>
+
