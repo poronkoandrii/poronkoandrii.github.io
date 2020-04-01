@@ -26,3 +26,5 @@ Homework:
 # <a href="https://poronkoandrii.github.io/homework_14.1/">Homework_14.1</a>
 # <a href="https://poronkoandrii.github.io/homework_14.2/">Homework_14.2</a>
 # <a href="https://poronkoandrii.github.io/homework_15/">Homework_15</a>
+# <a href="https://poronkoandrii.github.io/homework_16.2/">Homework_16.2</a>
+
