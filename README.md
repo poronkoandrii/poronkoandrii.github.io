@@ -1,4 +1,4 @@
-#[Poronko Andrii]
+# Poronko Andrii
 
 + [CAHEE](https://poronkoandrii.github.io/homework_16.3/)
 + [BHROMAON](https://poronkoandrii.github.io/homework_17/)
